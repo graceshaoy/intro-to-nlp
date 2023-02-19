@@ -3,5 +3,5 @@ nltk==3.6.5
 vadersentiment==3.3.2
 gensim==3.8.3
 pyLDAvis==3.4.0
-tensorflow==1.13.1+cpu
+tensorflow-cpu==2.11.0
 transformers==4.26.0
